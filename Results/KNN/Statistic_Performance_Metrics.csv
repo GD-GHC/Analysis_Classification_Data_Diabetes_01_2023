@@ -1,0 +1,2 @@
+Model,Precision,Accuracy,F1,Recall,AUC
+KNN,0.76,0.771,0.741,0.732,0.732

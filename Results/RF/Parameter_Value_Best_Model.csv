@@ -1,0 +1,10 @@
+Model Name,Model Alias,Best Params Names,Best Params Values,Best Score
+Random Forest,RF,bootstrap,True,0.7673416407061266
+Random Forest,RF,class_weight,,0.7673416407061266
+Random Forest,RF,criterion,gini,0.7673416407061266
+Random Forest,RF,max_features,log2,0.7673416407061266
+Random Forest,RF,min_samples_leaf,5,0.7673416407061266
+Random Forest,RF,min_samples_split,2,0.7673416407061266
+Random Forest,RF,n_estimators,15,0.7673416407061266
+Random Forest,RF,random_state,1,0.7673416407061266
+Random Forest,RF,verbose,0,0.7673416407061266

@@ -1,0 +1,5 @@
+Information of Prepared Dataset:
+Columns (9): ['Pregnancies', 'Glucose', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age', 'Outcome']
+Total of samples: 768
+Null Values: No
+NaN Values: No

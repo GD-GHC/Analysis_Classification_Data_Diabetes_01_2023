@@ -1,0 +1,10 @@
+Dataset,Variable,Type,Zero Values,Minimum,Maximum,Average,Median,Std.
+Original,Pregnancies,int64,111,0.0,17.0,3.845,3.0,3.367
+Original,Glucose,int64,5,0.0,199.0,120.895,117.0,31.952
+Original,BloodPressure,int64,35,0.0,122.0,69.105,72.0,19.343
+Original,SkinThickness,int64,227,0.0,99.0,20.536,23.0,15.942
+Original,Insulin,int64,374,0.0,846.0,79.799,30.5,115.169
+Original,BMI,float64,11,0.0,67.1,31.993,32.0,7.879
+Original,DiabetesPedigreeFunction,float64,0,0.078,2.42,0.472,0.372,0.331
+Original,Age,int64,0,21.0,81.0,33.241,29.0,11.753
+Original,Outcome,int64,500,0.0,1.0,0.349,0.0,0.477

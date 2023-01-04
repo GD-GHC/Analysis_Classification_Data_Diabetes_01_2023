@@ -1,0 +1,2 @@
+Model,Precision,Accuracy,F1,Recall,AUC
+RF,0.788,0.797,0.773,0.765,0.765
